@@ -17,7 +17,7 @@ Its syntax colors are based on VS Code's built-in
 𝖲𝖾𝖾 "𝖱𝖾𝗅𝖾𝖺𝗌𝖾𝗌" 𝗈𝗇 𝗍𝗁𝖾 𝗋𝗂𝗀𝗁𝗍 𝖿𝗈𝗋 𝗍𝗁𝖾 𝖻𝗂𝗇𝖺𝗋𝗒.
 <br><br>
 
-## Palette
+## 𝖯𝖺𝗅𝖾𝗍𝗍𝖾
 
 ```
 - Background:         `#040608`
@@ -28,7 +28,7 @@ Its syntax colors are based on VS Code's built-in
 - Scrollbar:          `#14202A`
 ```
 
-## Screenshots
+## 𝖲𝖼𝗋𝖾𝖾𝗇𝗌𝗁𝗈𝗍𝗌
 
 <table>
     <tr>
@@ -51,7 +51,7 @@ Its syntax colors are based on VS Code's built-in
 
 Its syntax colors are based on VS Code's built-in **Default High Contrast** theme.
 
-## Attribution
+## 𝖠𝗍𝗍𝗋𝗂𝖻𝗎𝗍𝗂𝗈𝗇
 
 The original syntax-color rules were taken from Microsoft's VS Code *Default High Contrast* theme `hc_black.json`, distributed under the MIT License. See `THIRD_PARTY_NOTICES.md`.
 
