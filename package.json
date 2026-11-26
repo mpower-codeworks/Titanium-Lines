@@ -1,0 +1,40 @@
+  {
+  "name": "titanium-lines",
+  "displayName": "Titanium Lines for VS Code",
+  "description": "Titanium Lines is a dark, high-contrast VS Code color theme with cool metallic borders, subtle background depth, and ice-blue accents. ",
+  "version": "0.1.0",
+  "publisher": "mpower-codeworks",
+  "icon": "icon.png",
+  "license": "MIT",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/mpower-codeworks/Titanium-Lines.git"
+  },
+  "homepage": "https://github.com/mpower-codeworks/Titanium-Lines",
+  "galleryBanner": {
+    "color": "#040408",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "high contrast",
+    "dark",
+    "titanium",
+    "lines"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Titanium Lines",
+        "uiTheme": "hc-black",
+        "path": "./themes/titanium-lines.json"
+      }
+    ]
+  }
+}
