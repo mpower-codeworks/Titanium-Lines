@@ -2,7 +2,7 @@
 
 <!--
 Titanium Lines is a dark, high-contrast VS Code color theme with 
-cool metallic borders, subtle background depth, and ice-blue accents. 
+cool metallic borders, subtle background depth, and ice-blue accents.
 -->
 𝖳𝗂𝗍𝖺𝗇𝗂𝗎𝗆 𝖫𝗂𝗇𝖾𝗌 𝗂𝗌 𝖺 𝖽𝖺𝗋𝗄, 𝗁𝗂𝗀𝗁-𝖼𝗈𝗇𝗍𝗋𝖺𝗌𝗍 𝖵𝖲 𝖢𝗈𝖽𝖾 𝖼𝗈𝗅𝗈𝗋 𝗍𝗁𝖾𝗆𝖾 𝗐𝗂𝗍𝗁 
 𝖼𝗈𝗈𝗅 𝗆𝖾𝗍𝖺𝗅𝗅𝗂𝖼 𝖻𝗈𝗋𝖽𝖾𝗋𝗌, 𝗌𝗎𝖻𝗍𝗅𝖾 𝖻𝖺𝖼𝗄𝗀𝗋𝗈𝗎𝗇𝖽 𝖽𝖾𝗉𝗍𝗁, 𝖺𝗇𝖽 𝗂𝖼𝖾-𝖻𝗅𝗎𝖾 𝖺𝖼𝖼𝖾𝗇𝗍𝗌.
