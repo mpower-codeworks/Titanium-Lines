@@ -49,10 +49,10 @@ Its syntax colors are based on VS Code's built-in
     </tr>
 </table>
 
-Its syntax colors are based on VS Code's built-in **Default High Contrast** theme.
+𝖨𝗍𝗌 𝗌𝗒𝗇𝗍𝖺𝗑 𝖼𝗈𝗅𝗈𝗋𝗌 𝖺𝗋𝖾 𝖻𝖺𝗌𝖾𝖽 𝗈𝗇 𝖵𝖲 𝖢𝗈𝖽𝖾'𝗌 𝖻𝗎𝗂𝗅𝗍-𝗂𝗇 **Default High Contrast** 𝗍𝗁𝖾𝗆𝖾.
 
 ## 𝖠𝗍𝗍𝗋𝗂𝖻𝗎𝗍𝗂𝗈𝗇
 
-The original syntax-color rules were taken from Microsoft's VS Code *Default High Contrast* theme `hc_black.json`, distributed under the MIT License. See `THIRD_PARTY_NOTICES.md`.
+𝖳𝗁𝖾 𝗈𝗋𝗂𝗀𝗂𝗇𝖺𝗅 𝗌𝗒𝗇𝗍𝖺𝗑-𝖼𝗈𝗅𝗈𝗋 𝗋𝗎𝗅𝖾𝗌 𝗐𝖾𝗋𝖾 𝗍𝖺𝗄𝖾𝗇 𝖿𝗋𝗈𝗆 𝖬𝗂𝖼𝗋𝗈𝗌𝗈𝖿𝗍'𝗌 𝖵𝖲 𝖢𝗈𝖽𝖾 *Default High Contrast* 𝗍𝗁𝖾𝗆𝖾 `𝗁𝖼_𝖻𝗅𝖺𝖼𝗄.𝗃𝗌𝗈𝗇`, 𝖽𝗂𝗌𝗍𝗋𝗂𝖻𝗎𝗍𝖾𝖽 𝗎𝗇𝖽𝖾𝗋 𝗍𝗁𝖾 𝖬𝖨𝖳 𝖫𝗂𝖼𝖾𝗇𝗌𝖾. 𝖲𝖾𝖾 `𝖳𝖧𝖨𝖱𝖣_𝖯𝖠𝖱𝖳𝖸_𝖭𝖮𝖳𝖨𝖢𝖤𝖲.𝗆𝖽`.
 
 ## ⓜⓟⓞⓦⓔⓡ-ⓒⓞⓓⓔⓦⓞⓡⓚⓢ
