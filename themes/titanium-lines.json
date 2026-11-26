@@ -1,7 +1,7 @@
 {
   "$schema": "vscode://schemas/color-theme",
   "name": "Titanium Lines",
-  "type": "dark",
+  "type": "dark", 
   "colors": {
     "editor.background": "#040608",
     "editor.foreground": "#d4d9dd",
